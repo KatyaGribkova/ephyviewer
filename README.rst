@@ -1,6 +1,6 @@
 ephyviewer
 ==========
-This project was forked from the NeuralEnsemble/ephyviewer repo (https://github.com/NeuralEnsemble/ephyviewer), with a modified version of the standalone viewer (standalone2), which additionally includes a simple video viewer window, useful for viewing synchronized recordings.
+This project was forked from the NeuralEnsemble/ephyviewer repo (https://github.com/NeuralEnsemble/ephyviewer), with a modified version of the standalone viewer (standalone2), which additionally includes a simple video viewer window, useful for viewing synchronized recordings. The modified codes here are located under ephyviewer/standalone2.py and ephyviewer/tests/test_standalone2.py.
 
 *Simple viewers for ephys signals, events, video and more*
 
